@@ -1,3 +1,20 @@
 {
-  "/": "https://github.com/DeepStoneCrypt/Galio"
+  "/": "https://github.com/DeepStoneCrypt/Galio",
+  
+  "_category_bungie": "",
+  "/clan": "https://www.bungie.net/zh-cht/ClanV2/Index?groupId=4730482",
+  
+  "_category_destiny_helpers": "",
+  "/dim": "https://beta.destinyitemmanager.com/",
+  "/bray": "https://bray.tech/",
+  "/braytech": "https://bray.tech/",
+  "/trn": "https://destinytracker.com/",
+  "/elo": "https://destinytracker.com/",
+  "_desc_elo/taskeren": "Taskeren-3's elo overview.",
+  "/elo/taskeren": "https://destinytracker.com/destiny-2/profile/steam/4611686018500727480/overview",
+  
+  "_category_kaiheila": "",
+  "/khl": "https://kaihei.co/fDUI7T",
+  "/haihei": "https://kaihei.co/fDUI7T",
+  "/haiheila": "https://kaihei.co/fDUI7T"
 }
